@@ -1,1 +1,1 @@
-Neste diretório são exibidos artefatos e resultados que, por falta de espaço, tiveram que ser omitidos ou parcialmente apresentados no artigo Prevençãode Anomalias Arquiteturais na Otimização de Projeto de PLA publicado no CIBSE2020.
+Neste diretório são exibidos artefatos e resultados que, por falta de espaço, tiveram que ser omitidos ou parcialmente apresentados no artigo Prevenção de Anomalias Arquiteturais na Otimização de Projeto de PLA publicado no CIBSE2020.
